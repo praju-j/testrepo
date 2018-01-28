@@ -1,3 +1,4 @@
-My first git file for commit
+My first git file for commit.
 My second line after commit.
-My third line on branch develop
+My third line on branch develop.
+New add
